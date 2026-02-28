@@ -1,3 +1,11 @@
+## Demo
+Here’s how BioMind AI looks in action:
+
+![AI Tutor Demo](./screenshots/Biotech.gif)
+
+
+
+
 # BioMind AI
 
 An AI-powered biotechnology learning platform built with FastAPI, Python, React, and Groq API (Llama 3).  
