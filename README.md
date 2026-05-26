@@ -1,8 +1,12 @@
 ## Demo
 Here’s how BioMind AI looks in action:
 
-![AI Tutor Demo](./screenshots/Biotech.gif)
+Project Demo (
 
+https://github.com/user-attachments/assets/914faa1a-47a6-4d13-a220-9a46fc34035b
+
+
+)
 
 
 
